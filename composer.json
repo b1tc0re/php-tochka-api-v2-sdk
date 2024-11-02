@@ -5,6 +5,7 @@
   "type": "library",
   "homepage": "https://github.com/lee-to/php-tochka-api-v2-sdk",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Danil Shutsky",
